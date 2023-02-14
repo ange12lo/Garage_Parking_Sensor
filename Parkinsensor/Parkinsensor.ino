@@ -1,6 +1,6 @@
 //    FILE: Parkingsensor.ino
 //  AUTHOR: Angelo Stracuzzi
-// VERSION: 1.1
+// VERSION: 1.2
 // PURPOSE:
 //    DATE: 14.02.2023
 //
